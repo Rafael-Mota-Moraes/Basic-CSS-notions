@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    width: 900px;
+    background-color: rgb(155, 63, 63);
+    margin: 30px auto;
+    text-align: center;
+}
+
+.menu a{
+    text-decoration: none;
+    font-size: 26px;
+    margin: 0 40px;
+    color: orange;
+    padding: 9px;
+
+}
+
+
+/* Apenas atrbuir id a uma tag se for usar apenas uma vez, classes
+classes podem ser usadas mais de uma vez
+id  .
+classe #
+*/

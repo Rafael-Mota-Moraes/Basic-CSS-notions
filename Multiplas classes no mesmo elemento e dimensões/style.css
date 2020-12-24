@@ -1,0 +1,27 @@
+html,body{
+    height: 100%;
+}
+ 
+.tipo1{
+    color: rgb(85, 84, 84);
+}
+
+a.link_{
+    font-size: 30px;
+}
+
+.header{
+    width: 100%;
+    min-width: 1280;
+    height: 200px;
+    background: gray;
+}
+
+.article{
+    margin: 0 auto;
+    width: 1280px;
+    height: 10%;
+    min-height: 50%;
+    background: rgb(122, 0, 0);
+}
+

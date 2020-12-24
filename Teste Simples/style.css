@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.artigo{
+    width: 1280px;
+    margin: 40px auto;
+    text-align: center;
+    color: red;
+}
+
+.artigo > h1{
+    color: rgb(83, 38, 38);
+    font-family: "Tahoma", times, serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: normal;
+}
